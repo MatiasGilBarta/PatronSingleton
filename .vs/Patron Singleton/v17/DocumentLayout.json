@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\Patron Singleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE3095F3-6ECE-41BA-8BD3-63859D837A38}|Domain\\Domain.csproj|c:\\aplicaciones\\visual studio 2022\\trabajos en visual studio 2022\\repos\\patron singleton\\domain\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE3095F3-6ECE-41BA-8BD3-63859D837A38}|Domain\\Domain.csproj|solutionrelative:domain\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2EAB9DD9-033F-42C6-8920-D0A351EDE9FB}|UI\\UI.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\Patron Singleton\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAB9DD9-033F-42C6-8920-D0A351EDE9FB}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3095F3-6ECE-41BA-8BD3-63859D837A38}|Domain\\Domain.csproj|c:\\aplicaciones\\visual studio 2022\\trabajos en visual studio 2022\\repos\\patron singleton\\domain\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3095F3-6ECE-41BA-8BD3-63859D837A38}|Domain\\Domain.csproj|solutionrelative:domain\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\Patron Singleton\\Domain\\Logger.cs",
               "RelativeDocumentMoniker": "Domain\\Logger.cs",
               "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\Patron Singleton\\Domain\\Logger.cs",
               "RelativeToolTip": "Domain\\Logger.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAqAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T13:48:32.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\Patron Singleton\\UI\\Program.cs",
               "RelativeDocumentMoniker": "UI\\Program.cs",
               "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\Patron Singleton\\UI\\Program.cs",
               "RelativeToolTip": "UI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T13:48:15.77Z"
+              "WhenOpened": "2025-05-27T13:48:15.77Z",
+              "EditorCaption": ""
             }
           ]
         }

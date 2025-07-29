@@ -12,9 +12,9 @@ namespace UI
     {
         static void Main(string[] args)
         {
-            string a = "lo que hay que guardar";
+            string mensaje = "este es el mensaje";
 
-            Logger.Current.Guardar(a);
+            Logger.Current.Guardar(mensaje);
             Console.ReadLine();
         }
 
